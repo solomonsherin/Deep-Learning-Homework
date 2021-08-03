@@ -1,6 +1,6 @@
 # Deep-Learning-Homework
 
-## This assignment, taught us  deep learning recurrent neural networks to model bitcoin closing prices. One model used the FNG indicators to predict the closing price while the second model used a window of closing prices to predict the nth closing price.
+## In this assignment, taught us  deep learning recurrent neural networks to model bitcoin closing prices. One model used the FNG indicators to predict the closing price while the second model used a window of closing prices to predict the nth closing price.
 
 Steps for the Exercise:
 
